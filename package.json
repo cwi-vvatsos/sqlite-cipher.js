@@ -33,7 +33,7 @@
     "url": "git+https://github.com/JayrAlencar/sqlite-cipher.js"
   },
   "dependencies": {
-    "sqlite-sync": "latest"
+    "sqlite-sync": "https://github.com/cwi-vvatsos/sqlite-sync.js"
   },
   "license": "MIT",
   "scripts": {
